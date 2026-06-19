@@ -1,4 +1,4 @@
-<img src="man/figures/logo.png" align="right" height="150" alt="spaDesign2 logo" />
+<img src="man/figures/logo.png" align="right" height="200" alt="spaDesign2 logo" />
 
 # spaDesign2
 
