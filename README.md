@@ -57,7 +57,7 @@ BiocManager::install(c("limma", "SingleCellExperiment", "SpatialExperiment", "sp
 
 # spaDesign2 (development version from GitHub)
 # install.packages("remotes")
-remotes::install_github("<github-username>/spaDesign2")    # replace with the repo path
+remotes::install_github("c16267/spaDesign2")    # replace with the repo path
 ```
 
 Or from a local source tarball:
