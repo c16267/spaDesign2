@@ -21,6 +21,7 @@ correlated expression** jointly, re-discovers spatial domains in every synthetic
 replicate, and evaluates the *same* tests an analyst would actually run — so the
 reported power reflects the real analysis pipeline, not an idealized oracle.
 
+
 ---
 
 ## Why spaDesign2
